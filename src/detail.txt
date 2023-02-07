@@ -1,0 +1,45 @@
+Compiling your contracts...
+===========================
+> Compiling .\contracts\Voting.sol
+> Artifacts written to C:\Users\asusl\OneDrive\Desktop\kartikey\assignment\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.17+commit.8df45f5f.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'goerli'
+> Network id:      5
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_deploy_contracts.js
+=====================
+
+   Deploying 'Voting'
+   ------------------
+   > transaction hash:    0xce7ea52a46edb5a30efee90b9f32aaebfa0ccfecafa15cb90dfc25fa0701990b
+   > Blocks: 1            Seconds: 25
+   > contract address:    0x7D7B59F662D4BC4F2ff32d66Fc08e0400e3644A0
+   > block number:        8448937
+   > block timestamp:     1675752384
+   > account:             0x8950da4D81F0715FFE32472518E0B97F5aEdF532
+   > balance:             0.195545752425168642
+   > gas used:            1781699 (0x1b2fc3)
+   > gas price:           2.500000042 gwei
+   > value sent:          0 ETH
+   > total cost:          0.004454247574831358 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 8448938)
+   > confirmation number: 2 (block: 8448939)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.004454247574831358 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.004454247574831358 ETH
